@@ -1,4 +1,4 @@
-##Application coding for an Android platform - Give A L'Otter
+# Application coding for an Android platform - Give A L'Otter
 
 In a three students team we have built an original Android app named Give A L'Otter. We have used
 BitBucket for versioning the app, the versioning system being Git. The app coding was realized in Android
@@ -13,4 +13,4 @@ answers. By adding the currency, in order to be able to pose a request for an id
 few other requests first, and your answers have to be bought. The database in which the accounts, the
 requests for ideas of gifts and the answers to the posts are saved it is hosted with Google Firebase.
 
-#The archive contains the project and source code of the application developed in Android Studio.
+The archive contains the project and source code of the application developed in Android Studio.
