@@ -12,3 +12,5 @@ app so we will not encounter the situation where there will be many questions fo
 answers. By adding the currency, in order to be able to pose a request for an idea, you have to answer to a
 few other requests first, and your answers have to be bought. The database in which the accounts, the
 requests for ideas of gifts and the answers to the posts are saved it is hosted with Google Firebase.
+
+#The archive contains the project and source code of the application developed in Android Studio.
